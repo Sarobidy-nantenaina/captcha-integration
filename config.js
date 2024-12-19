@@ -1,1 +1,1 @@
-window.WAF_API_KEY = "API_KEY";
+window.WAF_API_KEY
